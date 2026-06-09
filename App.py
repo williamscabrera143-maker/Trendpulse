@@ -8,6 +8,8 @@ st.sidebar.markdown("### 👑 Desbloquea el Plan Pro")
 st.sidebar.write("Accede a más de 100 tendencias diarias y guiones ilimitados.")
 st.sidebar.link_button("Hacerme Pro por $9.99/mes 💳", "https://stripe.com")
 
+
+
 # 3. Base de datos simulada de tendencias para tus videos
 TENDENCIAS = {
     "Finanzas / Emprendimiento": [
